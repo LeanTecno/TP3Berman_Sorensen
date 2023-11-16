@@ -1,0 +1,126 @@
+{   "audio":"audios/RELATO_TP3.mp3",
+    "modelo":"modelos/sistema_ultimo.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":2000,
+                "camara":"c1",
+                "target":"target1",
+                "nombre":"vista general"
+           },
+          {
+               "tiempo":"00:30",
+               "duracion":2000,
+               "camara":"c3",
+               "target":"target3",
+               "nombre":"Mercurio"
+          },
+          {
+               "tiempo":"00:50",
+               "duracion":2000,
+               "camara":"c4",
+               "target":"target4",
+               "nombre":"Venus"
+          },
+          {
+               "tiempo":"01:04",
+               "duracion":2000,
+               "camara":"c5",
+               "target":"target5",
+               "nombre":"Tierra"
+          },
+          {
+               "tiempo":"01:30",
+               "duracion":2000,
+               "camara":"c6",
+               "target":"target6",
+               "nombre":"Marte"
+          },
+          {
+               "tiempo":"01:58",
+               "duracion":2000,
+               "camara":"c7",
+               "target":"target7",
+               "nombre":"Júpiter"
+          },
+          {
+               "tiempo":"02:20",
+               "duracion":2000,
+               "camara":"c8",
+               "target":"target8",
+               "nombre":"Saturno"
+          },
+          {
+               "tiempo":"02:44",
+               "duracion":2000,
+               "camara":"c9",
+               "target":"target9",
+               "nombre":"Urano"
+          },
+          {
+               "tiempo":"03:12",
+               "duracion":2000,
+               "camara":"c10",
+               "target":"target10",
+               "nombre":"Neptuno"
+          },
+          {
+               "tiempo":"00:37",
+               "duracion":2000,
+               "camara":"Mercurio1",
+               "target":"mercurio2",
+               "nombre":"Mercurio int"
+          },
+          {
+               "tiempo":"00:57",
+               "duracion":2000,
+               "camara":"Venus1",
+               "target":"Venus2",
+               "nombre":"Venus int"
+          },
+          {
+               "tiempo":"01:22",
+               "duracion":2000,
+               "camara":"Tierra1",
+               "target":"Tierra2",
+               "nombre":"Tierra int"
+          },
+          {
+               "tiempo":"01:42",
+               "duracion":2000,
+               "camara":"Marte1",
+               "target":"Marte2",
+               "nombre":"Marte int"
+          },
+          {
+               "tiempo":"02:13",
+               "duracion":2000,
+               "camara":"Jupiter1",
+               "target":"Jupiter2",
+               "nombre":"Júpiter int"
+          },
+          {
+               "tiempo":"02:40",
+               "duracion":2000,
+               "camara":"Saturno1",
+               "target":"Saturno2",
+               "nombre":"Saturno int"
+          },
+          {
+               "tiempo":"02:55",
+               "duracion":2000,
+               "camara":"Urano1",
+               "target":"Urano2",
+               "nombre":"Urano int"
+          },
+          {
+               "tiempo":"03:19",
+               "duracion":2000,
+               "camara":"Neptuno1",
+               "target":"Neptuno2",
+               "nombre":"Neptuno int"
+          }
+      ]
+}
